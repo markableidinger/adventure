@@ -4,11 +4,8 @@ adventure README
 Getting Started
 ---------------
 
-- cd <directory containing this file>
+-cd into  adventure repo
 
-- $VENV/bin/python setup.py develop
+-$ venv/bin/pserve --reload development.ini
 
-- $VENV/bin/initialize_adventure_db development.ini
-
-- $VENV/bin/pserve development.ini
-
+-open http://0.0.0.0.6543 in browser
