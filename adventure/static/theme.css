@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #173B40;
+  background-color: #5BECFF;
+}
+
+.container {
+  background-color: #52D4E5;
+  margin: auto;
+  width: 960px;
+  padding-top: 30px;
+  padding-bottom: 1px;
+}
+
+.icon  {
+  height: 32px;
+  width: 32px;
+  float: right;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.header__container {
+  width: 960px;
+  margin: auto;
+}
+
+.header__container h1 {
+  width: 900px;
+  margin-right: 0;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.adventure {
+  width: 900px;
+  height: 200px;
+  background-color: #173B40;
+  color: white;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
